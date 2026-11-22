@@ -1,5 +1,8 @@
 # platformdirs
 
+> This repository is Aditya Hambire’s fork of [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs). Upstream authorship and licensing apply. See the [fork guide](docs/FORK_GUIDE.md) for architecture, local use and the scope of this review.
+
+
 [![PyPI version](https://badge.fury.io/py/platformdirs.svg)](https://badge.fury.io/py/platformdirs)
 [![Python versions](https://img.shields.io/pypi/pyversions/platformdirs.svg)](https://pypi.python.org/pypi/platformdirs/)
 [![CI](https://github.com/tox-dev/platformdirs/actions/workflows/check.yaml/badge.svg)](https://github.com/platformdirs/platformdirs/actions)
